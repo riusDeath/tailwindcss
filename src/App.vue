@@ -13,7 +13,7 @@
 				<div class="dot absolute left-1 top-1 bg-white w-6 h-6 rounded-full transition"></div>
 			</div>
 			<div class="ml-3 text-gray-700 font-medium">
-				Dark mode
+				Dark mode 
 			</div>
   		</label>
 	</div>
